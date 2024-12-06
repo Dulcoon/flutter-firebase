@@ -11,8 +11,10 @@ A new Flutter project.
 ![Login Page](https://raw.githubusercontent.com/dulcoon/flutter-firebase/foto/LoginPage.png)
 
 ### Register Page
-![Login Page](https://raw.githubusercontent.com/dulcoon/flutter-firebase/foto/RegisterPage.png)
-
+![Register Page](https://raw.githubusercontent.com/dulcoon/flutter-firebase/foto/RegisterPage.png)
 
 ### Home Page
-![Login Page](https://raw.githubusercontent.com/dulcoon/flutter-firebase/foto/HomePage.png)
+![Home Page](https://raw.githubusercontent.com/dulcoon/flutter-firebase/foto/HomePage.png)
+
+### Firebase Auth
+![Firebase Auth](https://raw.githubusercontent.com/dulcoon/flutter-firebase/foto/FirebaseAuth.png)
