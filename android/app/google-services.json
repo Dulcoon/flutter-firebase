@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042982695076",
+    "project_id": "fir-flutter-e702b",
+    "storage_bucket": "fir-flutter-e702b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042982695076:android:2c79524951bdd6cd9bb631",
+        "android_client_info": {
+          "package_name": "com.dulcoon.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwweWkoArsbX4-Giqx5p471f-Z8oaasNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
